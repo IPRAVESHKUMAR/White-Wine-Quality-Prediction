@@ -1,7 +1,3 @@
-Here's a template for a `README.md` file for your Wine Quality Prediction project using Support Vector Machine. You can customize it further based on your specific requirements and additional details.
-
----
-
 # Wine Quality Prediction using Support Vector Machine
 
 This project aims to predict the quality of white wine based on various chemical properties using Support Vector Machine (SVM) as a classifier. The dataset used for this project is sourced from the UCI Machine Learning Repository.
@@ -165,12 +161,6 @@ This project demonstrates how SVM can be used to predict wine quality based on i
 
 ## Author
 
-Your Name
+Pravesh Kumar
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to add more sections or modify the existing ones to better fit your project.
