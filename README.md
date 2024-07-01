@@ -1,6 +1,6 @@
 # Wine Quality Prediction using Support Vector Machine
 
-This project aims to predict the quality of white wine based on various chemical properties using Support Vector Machine (SVM) as a classifier. The dataset used for this project is sourced from the UCI Machine Learning Repository.
+This project aims to predict the quality of white wine based on various chemical properties using Support Vector Machine (SVM) as a classifier. The dataset used for this project is sourced from UCI Machine Learning Repository.
 
 ## Dataset
 
